@@ -1,0 +1,18 @@
+body{
+    background-color:#F5CF06;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+}
+
+h2 {
+    font-size: 50px;
+    color: black;
+}
+
+p{
+    color:rgb(14, 13, 13);
+    font-size: 40px;
+}
